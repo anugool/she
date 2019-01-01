@@ -33,3 +33,8 @@ Dev Id
 
 Email : phattiya.sb@gmail.com 
 Pass : inbox email 
+
+# Google G suite 
+
+Email : shelongsthailand@shelongs.com
+Pass : Qq31263109
