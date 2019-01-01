@@ -2,11 +2,13 @@
 
 # Programming language
 
-codeigniter + angulajs 
+codeigniter3 + angulajs 
 
 # Database 
 
 Mysqli
+
+sql ไฟล์ชื่อ shelongs.sql
 
 # Hosting 
 
@@ -21,8 +23,8 @@ Apple ID
 
 https://developer.apple.com/account/
 
-phattiya.sb@icloud.com
-Qq31263109
+Email : phattiya.sb@icloud.com
+Pass : Qq31263109
 
 
 # Android 
